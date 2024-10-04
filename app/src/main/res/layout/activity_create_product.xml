@@ -45,5 +45,5 @@
         android:id="@+id/saveProductButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Guardar Producto" />
+        android:text="Guardar Producto Seleccionado" />
 </LinearLayout>
